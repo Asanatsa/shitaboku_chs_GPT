@@ -7,3 +7,6 @@
 
 
 欢迎翻译大佬提交pr
+
+
+Original text Copyright by Ensemble-Sweet, WillPlus Japan
